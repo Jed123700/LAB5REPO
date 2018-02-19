@@ -12,7 +12,7 @@ public class Main {
             input.toUpperCase();
             long data[] = new long [8];
             char second = input.charAt(1);
-
+//Git comment to figure out how it works
             if (input.startsWith("0x"))
             {
             //System(input.length(2,len));
